@@ -1,3 +1,6 @@
+## Personal study
+> Im try to learn how be programer. personal progress... and personal implementation and notes. nothing more.
+
 # Coding Interview University
 
 > I originally created this as a short to-do list of study topics for becoming a software engineer,
